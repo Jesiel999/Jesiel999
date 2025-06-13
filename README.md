@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dba4a2dc-a3ef-4c5e-a60a-c7f13cb860b5)## 👋 Olá, meu nome é Jesiel
+## 👋 Olá, meu nome é Jesiel
 
 ---
 

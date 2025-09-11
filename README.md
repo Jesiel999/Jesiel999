@@ -2,7 +2,7 @@
 
 ---
 
-🔭 Atualmente, trabalho como **Analista de Infraestrutura de Redes** em uma empresa, onde sou responsável por garantir que toda a estrutura de TI funcione de maneira eficiente e segura. No entanto, minha verdadeira paixão é a programação. Sempre que posso, mergulho em projetos de código, explorando novas linguagens e frameworks, e buscando maneiras de aplicar meu conhecimento em tecnologia de formas criativas e inovadoras. A programação para mim não é apenas uma habilidade, mas uma maneira de expressar minha curiosidade e desejo constante de aprender e resolver problemas. Essa paixão me motiva a continuar evoluindo como profissional, unindo minha experiência em infraestrutura com minha sede por inovação no desenvolvimento de software.
+🔭 Atualmente, trabalho como **Analista de TI** em uma empresa, onde sou responsável por garantir que toda a estrutura de TI funcione de maneira eficiente e segura. No entanto, minha verdadeira paixão é a programação. Sempre que posso, mergulho em projetos de código, explorando novas linguagens e frameworks, e buscando maneiras de aplicar meu conhecimento em tecnologia de formas criativas e inovadoras. A programação para mim não é apenas uma habilidade, mas uma maneira de expressar minha curiosidade e desejo constante de aprender e resolver problemas. Essa paixão me motiva a continuar evoluindo como profissional, unindo minha experiência em infraestrutura com minha sede por inovação no desenvolvimento de software.
 
 🌱 Com grande paixão pela área de desenvolvimento, estou atualmente trabalhando em diversos projetos que abrangem **HTML, CSS, JavaScript, PHP e Python**. Alguns desses projetos foram realizados como serviços de freelancer, permitindo-me aplicar e expandir meus conhecimentos nessas tecnologias.
 

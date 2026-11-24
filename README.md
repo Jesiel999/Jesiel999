@@ -1,10 +1,39 @@
-## 👋 Olá, meu nome é Jesiel
+# 👋 Olá! Eu sou Jesiel Santos
 
----
+Sou profissional de Tecnologia da Informação, com formação em **Gestão da Tecnologia da Informação**, atualmente cursando **Engenharia de Software** e **MBA em Cibersegurança**.
 
-🔭 Atualmente, trabalho como **Analista de TI** em uma empresa, onde sou responsável por garantir que toda a estrutura de TI funcione de maneira eficiente e segura. No entanto, minha verdadeira paixão é a programação. Sempre que posso, mergulho em projetos de código, explorando novas linguagens e frameworks, e buscando maneiras de aplicar meu conhecimento em tecnologia de formas criativas e inovadoras. A programação para mim não é apenas uma habilidade, mas uma maneira de expressar minha curiosidade e desejo constante de aprender e resolver problemas. Essa paixão me motiva a continuar evoluindo como profissional, unindo minha experiência em infraestrutura com minha sede por inovação no desenvolvimento de software.
+Atuo na área de TI, com experiência em administração de ambientes tecnológicos, infraestrutura, suporte técnico, desenvolvimento de sistemas e integração de soluções. Tenho grande interesse em Engenharia de Software, arquitetura de sistemas e Engenharia de Dados, buscando constantemente transformar necessidades de negócio em soluções tecnológicas eficientes, escaláveis e seguras.
 
-🌱 Com grande paixão pela área de desenvolvimento, estou atualmente trabalhando em diversos projetos que abrangem **HTML, CSS, JavaScript, PHP e Python**. Alguns desses projetos foram realizados como serviços de freelancer, permitindo-me aplicar e expandir meus conhecimentos nessas tecnologias.
+### 💻 Desenvolvimento e Tecnologia
+
+Tenho experiência prática no desenvolvimento de aplicações Full Stack, trabalhando com tecnologias como **PHP, Laravel, Python, JavaScript, TypeScript, Angular e Vue.js**, além de bancos de dados relacionais, especialmente **MySQL**.
+
+Também atuo em projetos envolvendo:
+
+- Desenvolvimento e manutenção de aplicações web.
+- Construção e integração de APIs REST.
+- Arquitetura de software e padrão MVC.
+- Modelagem e otimização de bancos de dados SQL.
+- Desenvolvimento de processos ETL e integração de dados.
+- Arquitetura de Data Lake com camadas Bronze, Silver e Gold.
+- Business Intelligence (BI), dashboards e análise de indicadores.
+- Administração de ambientes Linux, containers e versionamento com Git.
+
+### 🚀 Interesses e objetivos
+
+Minha paixão pela tecnologia vai além da programação. Gosto de compreender como os sistemas funcionam de ponta a ponta, desde a infraestrutura e arquitetura até o desenvolvimento, processamento de dados e entrega de informações estratégicas.
+
+Busco evoluir continuamente como profissional de Engenharia de Software, aprofundando meus conhecimentos em desenvolvimento Backend, arquitetura de sistemas, Engenharia de Dados, automação e Cibersegurança.
+
+Acredito que a tecnologia deve ir além de resolver problemas: deve gerar valor, otimizar processos e criar oportunidades de inovação.
+
+### 📚 Formação acadêmica
+
+- 🎓 Gestão da Tecnologia da Informação — Concluído.
+- 📖 Engenharia de Software — Em andamento.
+- 📖 MBA em Cibersegurança — Em andamento.
+
+**Sempre aprendendo, desenvolvendo e transformando ideias em soluções.** 🚀
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
